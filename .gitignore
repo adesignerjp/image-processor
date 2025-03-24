@@ -1,0 +1,6 @@
+.venv/
+image_processing_cache.json
+image_processing.log
+failed_files.json
+env
+data/
