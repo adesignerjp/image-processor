@@ -1,0 +1,8 @@
+{
+    "spreadsheet_id": "1dTnuPyLHjYANic63d24fWiugxQi_qA0QKFlE0Jd-nXE",
+    "sheet_name": "sheet1",
+    "credentials_file": "/Users/z/adesignerjp/config/credentials.json",
+    "bucket_name": "adesignerjp-images",
+    "local_image_dir": "/Users/z/adesignerjp/images",
+    "cache_file": "image_processing_cache.json"
+  }
